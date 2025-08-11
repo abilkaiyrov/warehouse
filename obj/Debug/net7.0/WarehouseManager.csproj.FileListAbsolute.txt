@@ -1,0 +1,8 @@
+C:\Users\Ruslan\Downloads\WarehouseManager\WarehouseManager\obj\Debug\net7.0\WarehouseManager.csproj.AssemblyReference.cache
+C:\Users\Ruslan\Downloads\WarehouseManager\WarehouseManager\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\Ruslan\Downloads\WarehouseManager\WarehouseManager\obj\Debug\net7.0\WarehouseManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\Downloads\WarehouseManager\WarehouseManager\obj\Debug\net7.0\WarehouseManager.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Downloads\WarehouseManager\WarehouseManager\obj\Debug\net7.0\WarehouseManager.AssemblyInfo.cs
+C:\Users\Ruslan\Downloads\WarehouseManager\WarehouseManager\obj\Debug\net7.0\WarehouseManager.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Downloads\WarehouseManager\WarehouseManager\obj\Debug\net7.0\WarehouseManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ruslan\Downloads\WarehouseManager\WarehouseManager\obj\Debug\net7.0\WarehouseManager.MvcApplicationPartsAssemblyInfo.cache
